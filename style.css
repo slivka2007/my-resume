@@ -1,0 +1,12 @@
+* {
+    font-family: system-ui;
+}
+h2 {
+    text-decoration: underline;
+}
+li {
+    font-style: italic;
+}
+.profile-container {
+    text-align: center;
+}
