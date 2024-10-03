@@ -9,6 +9,9 @@ h2 {
 li {
     font-style: italic;
 }
+.hyperlink {
+    color: yellowgreen
+}
 .profile-container {
     text-align: center;
 }
