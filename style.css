@@ -1,5 +1,8 @@
 * {
-    font-family: system-ui;
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
     background-color: black;
     color: white;
 }
